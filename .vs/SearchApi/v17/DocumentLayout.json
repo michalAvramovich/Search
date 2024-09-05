@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\SearchApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\services\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\services\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\services\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\services\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\models\\dto\\searchresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\models\\dto\\searchresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\models\\entities\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\models\\entities\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\searchapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\searchapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\migrations\\20240830080359_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\migrations\\20240830080359_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|c:\\users\\user\\source\\repos\\searchapi\\searchapi\\searchapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BEFD74BA-21A4-4881-A350-6FAD62874F34}|SearchApi\\SearchApi.csproj|solutionrelative:searchapi\\searchapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Services\\ICacheService.cs",
+              "RelativeDocumentMoniker": "SearchApi\\Services\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Services\\ICacheService.cs",
+              "RelativeToolTip": "SearchApi\\Services\\ICacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:45:12.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "SearchApi\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "SearchApi\\Controllers\\SearchController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwDIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:59:17.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Models\\Entities\\SearchResult.cs",
+              "RelativeDocumentMoniker": "SearchApi\\Models\\Entities\\SearchResult.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Models\\Entities\\SearchResult.cs",
+              "RelativeToolTip": "SearchApi\\Models\\Entities\\SearchResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:43:21.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Models\\DTO\\SearchResultDTO.cs",
+              "RelativeDocumentMoniker": "SearchApi\\Models\\DTO\\SearchResultDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Models\\DTO\\SearchResultDTO.cs",
+              "RelativeToolTip": "SearchApi\\Models\\DTO\\SearchResultDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:21:43.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "SearchApi\\Services\\CacheService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Services\\CacheService.cs",
+              "RelativeToolTip": "SearchApi\\Services\\CacheService.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:42:17.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISearchService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Services\\ISearchService.cs",
+              "RelativeDocumentMoniker": "SearchApi\\Services\\ISearchService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Services\\ISearchService.cs",
+              "RelativeToolTip": "SearchApi\\Services\\ISearchService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:02:12.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "SearchApi\\Services\\SearchService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Services\\SearchService.cs",
+              "RelativeToolTip": "SearchApi\\Services\\SearchService.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAkwJMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:00:04.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "SearchApi\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "SearchApi\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:49:16.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Program.cs",
+              "RelativeDocumentMoniker": "SearchApi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Program.cs",
+              "RelativeToolTip": "SearchApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:02:22.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SearchApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\appsettings.json",
+              "RelativeToolTip": "SearchApi\\appsettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T13:12:46.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SearchApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\appsettings.Development.json",
+              "RelativeToolTip": "SearchApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T04:38:07.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchApi",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\SearchApi.csproj",
+              "RelativeDocumentMoniker": "SearchApi\\SearchApi.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\SearchApi.csproj",
+              "RelativeToolTip": "SearchApi\\SearchApi.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T16:19:22.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240830080359_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Migrations\\20240830080359_initial migration.cs",
+              "RelativeDocumentMoniker": "SearchApi\\Migrations\\20240830080359_initial migration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\Migrations\\20240830080359_initial migration.cs",
+              "RelativeToolTip": "SearchApi\\Migrations\\20240830080359_initial migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAvwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:04:00.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchApi.http",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\SearchApi.http",
+              "RelativeDocumentMoniker": "SearchApi\\SearchApi.http",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SearchApi\\SearchApi\\SearchApi.http",
+              "RelativeToolTip": "SearchApi\\SearchApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-27T09:58:53.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
